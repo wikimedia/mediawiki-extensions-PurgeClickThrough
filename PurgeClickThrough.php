@@ -14,10 +14,11 @@ $wgExtensionCredits['other'][] = array(
 	'name' => 'PurgeClickThrough',
 	'version' => '0.1',
 	'author' => 'Brian Wolff',
-	// Not for real users, so no point i18n-ing it.
-	'description' => 'Do not redirect ?action=purge pages, but instead have a click through (for debugging purposes)',
+	'descriptionmsg' => 'purgeclickthrough-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:PurgeClickThrough',
 );
+
+$wgMessagesDirs['PurgeClickThrough'] = __DIR__ . '/i18n';
 
 $wgActions['purge'] = 'PurgeClickThrough';
 
