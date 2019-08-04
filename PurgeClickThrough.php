@@ -41,6 +41,12 @@ WIKI;
 
 		$url = $this->getTitle()->getFullUrl( $params );
 		$text .= '[' . $url . ' ' . $url . ']';
-                $this->getOutput()->addWikiText( $text ); 
+		$out = $this->getOutput();
+		if ( method_exists( $out, 'addWikiTextAsInterface' ) ) {
+			// MW 1.32+
+		    $out->addWikiTextAsInterface( $text );
+		} else {
+		    $out->addWikiText( $text );
+		}
         }
 }
