@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"MuratTheTurkish"
 		]
 	},
-	"purgeclickthrough-desc": "?action=purge sayfaları yönlendirme, ancak bunun yerine bir tıklama geçir (hata ayıklama amacıyla)"
+	"purgeclickthrough-desc": "?action=purge sayfalarına yönlendirmeyin, ancak bunun yerine bir tıklama geçir (hata ayıklama amacıyla)"
 }
