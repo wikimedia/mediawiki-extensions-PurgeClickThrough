@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"purgeclickthrough-desc": "Strani ?action=purge ne preusmerjajo, ampak zadostuje zgolj klik (za odpravljanje hroščev)"
+}
