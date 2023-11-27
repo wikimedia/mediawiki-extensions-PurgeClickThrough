@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"purgeclickthrough-desc": "Pagina’s met ?action=purge niet doorverwijzen, maar in plaats daarvan een doorklikpagina tonen (voor foutopsporingsdoeleinden)"
+}
