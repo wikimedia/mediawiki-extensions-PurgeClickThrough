@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"McDutchie"
+			"McDutchie",
+			"Siebrand"
 		]
 	},
-	"purgeclickthrough-desc": "Pagina’s met ?action=purge niet doorverwijzen, maar in plaats daarvan een doorklikpagina tonen (voor foutopsporingsdoeleinden)"
+	"purgeclickthrough-desc": "Pagina’s met ?action=purge niet doorverwijzen, maar in plaats daarvan een doorklikpagina weergeven (voor foutopsporingsdoeleinden)"
 }
