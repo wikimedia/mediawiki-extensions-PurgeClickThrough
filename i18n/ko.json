@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tensama0415"
+		]
+	},
+	"purgeclickthrough-desc": "?action=purge 페이지를 넘겨주기하지 않는 대신, (디버깅 목적으로) 클릭해서 바로 이동할 수 있도록 합니다"
+}
