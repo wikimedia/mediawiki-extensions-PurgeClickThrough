@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"purgeclickthrough-desc": "Nepresmeruje stránky ?action=purge, ale namiesto toho zobrazí medzikrok s preklikom (na účely ladenia)"
+}
