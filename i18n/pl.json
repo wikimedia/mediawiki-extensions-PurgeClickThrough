@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"PanWor"
+		]
+	},
+	"purgeclickthrough-desc": "Nie przekierowuj stron z parametrem „?action=purge”, ale zamiast tego zastosuj przekierowanie z kliknięciem (w celach debugowania)"
+}
